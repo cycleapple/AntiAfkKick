@@ -1,9 +1,9 @@
-﻿{
+{
     "Name": "AntiAfkKick",
     "Author": "NightmareXIV",
     "Description": "防止因閒置過久而被遊戲自動斷線。安裝後即可使用，無需設定。",
     "Punchline": "防止因閒置過久而被遊戲自動斷線。安裝後即可使用，無需設定。",
     "RepoUrl": "https://github.com/NightmareXIV/AntiAfkKick",
     "InternalName": "AntiAfkKick-Dalamud",
-    "DalamudApiLevel": 13
+    "DalamudApiLevel": 14
 }
